@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802929613863",
+    "project_id": "acctask-476e5",
+    "storage_bucket": "acctask-476e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802929613863:android:cd20267dd64b13cb8c4202",
+        "android_client_info": {
+          "package_name": "com.example.acctask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wLAzvRkjZGNUXODeQnlqTeRuKpmw_lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
